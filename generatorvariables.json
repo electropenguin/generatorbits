@@ -1,4 +1,11 @@
 {
+  "attributeArrays":[
+    {"CR":"1", "Attributes":"0,0,0,0,0,0"},
+    {"CR":"2", "Attributes":"0,1,0,1,0,1"},
+    {"CR":"3", "Attributes":"0,0,1,1,1,1"},
+    {"CR":"4", "Attributes":"1,0,1,1,1,2"},
+    {"CR":"5", "Attributes":"2,2,2,1,1,0"}
+    ]
 "employees":[
   {"firstName":"John", "lastName":"Doe"},
   {"firstName":"Anna", "lastName":"Smith"},
